@@ -1,0 +1,1202 @@
+[
+  {
+    "timestamp": "2026-04-08T00:00:00",
+    "stream_id": "st_cr_001_000",
+    "creator_id": "cr_001",
+    "views": 4200,
+    "watch_time_minutes": 11760.0,
+    "likes": 189,
+    "comments": 46,
+    "shares": 25
+  },
+  {
+    "timestamp": "2026-04-08T01:00:00",
+    "stream_id": "st_cr_001_001",
+    "creator_id": "cr_001",
+    "views": 4520,
+    "watch_time_minutes": 12656.0,
+    "likes": 203,
+    "comments": 49,
+    "shares": 27
+  },
+  {
+    "timestamp": "2026-04-08T02:00:00",
+    "stream_id": "st_cr_001_002",
+    "creator_id": "cr_001",
+    "views": 4840,
+    "watch_time_minutes": 13552.0,
+    "likes": 217,
+    "comments": 53,
+    "shares": 29
+  },
+  {
+    "timestamp": "2026-04-08T03:00:00",
+    "stream_id": "st_cr_001_003",
+    "creator_id": "cr_001",
+    "views": 5160,
+    "watch_time_minutes": 14447.999999999998,
+    "likes": 232,
+    "comments": 56,
+    "shares": 30
+  },
+  {
+    "timestamp": "2026-04-08T04:00:00",
+    "stream_id": "st_cr_001_004",
+    "creator_id": "cr_001",
+    "views": 5480,
+    "watch_time_minutes": 15343.999999999998,
+    "likes": 246,
+    "comments": 60,
+    "shares": 32
+  },
+  {
+    "timestamp": "2026-04-08T05:00:00",
+    "stream_id": "st_cr_001_005",
+    "creator_id": "cr_001",
+    "views": 5800,
+    "watch_time_minutes": 16239.999999999998,
+    "likes": 261,
+    "comments": 63,
+    "shares": 34
+  },
+  {
+    "timestamp": "2026-04-08T06:00:00",
+    "stream_id": "st_cr_001_006",
+    "creator_id": "cr_001",
+    "views": 4200,
+    "watch_time_minutes": 11760.0,
+    "likes": 189,
+    "comments": 46,
+    "shares": 25
+  },
+  {
+    "timestamp": "2026-04-08T07:00:00",
+    "stream_id": "st_cr_001_007",
+    "creator_id": "cr_001",
+    "views": 4520,
+    "watch_time_minutes": 12656.0,
+    "likes": 203,
+    "comments": 49,
+    "shares": 27
+  },
+  {
+    "timestamp": "2026-04-08T08:00:00",
+    "stream_id": "st_cr_001_008",
+    "creator_id": "cr_001",
+    "views": 4840,
+    "watch_time_minutes": 13552.0,
+    "likes": 217,
+    "comments": 53,
+    "shares": 29
+  },
+  {
+    "timestamp": "2026-04-08T09:00:00",
+    "stream_id": "st_cr_001_009",
+    "creator_id": "cr_001",
+    "views": 5160,
+    "watch_time_minutes": 14447.999999999998,
+    "likes": 232,
+    "comments": 56,
+    "shares": 30
+  },
+  {
+    "timestamp": "2026-04-08T10:00:00",
+    "stream_id": "st_cr_001_010",
+    "creator_id": "cr_001",
+    "views": 5480,
+    "watch_time_minutes": 15343.999999999998,
+    "likes": 246,
+    "comments": 60,
+    "shares": 32
+  },
+  {
+    "timestamp": "2026-04-08T11:00:00",
+    "stream_id": "st_cr_001_011",
+    "creator_id": "cr_001",
+    "views": 5800,
+    "watch_time_minutes": 16239.999999999998,
+    "likes": 261,
+    "comments": 63,
+    "shares": 34
+  },
+  {
+    "timestamp": "2026-04-08T12:00:00",
+    "stream_id": "st_cr_001_012",
+    "creator_id": "cr_001",
+    "views": 4200,
+    "watch_time_minutes": 11760.0,
+    "likes": 189,
+    "comments": 46,
+    "shares": 25
+  },
+  {
+    "timestamp": "2026-04-08T13:00:00",
+    "stream_id": "st_cr_001_013",
+    "creator_id": "cr_001",
+    "views": 4520,
+    "watch_time_minutes": 12656.0,
+    "likes": 203,
+    "comments": 49,
+    "shares": 27
+  },
+  {
+    "timestamp": "2026-04-08T14:00:00",
+    "stream_id": "st_cr_001_014",
+    "creator_id": "cr_001",
+    "views": 4840,
+    "watch_time_minutes": 13552.0,
+    "likes": 217,
+    "comments": 53,
+    "shares": 29
+  },
+  {
+    "timestamp": "2026-04-08T15:00:00",
+    "stream_id": "st_cr_001_015",
+    "creator_id": "cr_001",
+    "views": 5160,
+    "watch_time_minutes": 14447.999999999998,
+    "likes": 232,
+    "comments": 56,
+    "shares": 30
+  },
+  {
+    "timestamp": "2026-04-08T16:00:00",
+    "stream_id": "st_cr_001_016",
+    "creator_id": "cr_001",
+    "views": 5480,
+    "watch_time_minutes": 15343.999999999998,
+    "likes": 246,
+    "comments": 60,
+    "shares": 32
+  },
+  {
+    "timestamp": "2026-04-08T17:00:00",
+    "stream_id": "st_cr_001_017",
+    "creator_id": "cr_001",
+    "views": 5800,
+    "watch_time_minutes": 16239.999999999998,
+    "likes": 261,
+    "comments": 63,
+    "shares": 34
+  },
+  {
+    "timestamp": "2026-04-08T18:00:00",
+    "stream_id": "st_cr_001_018",
+    "creator_id": "cr_001",
+    "views": 4200,
+    "watch_time_minutes": 11760.0,
+    "likes": 189,
+    "comments": 46,
+    "shares": 25
+  },
+  {
+    "timestamp": "2026-04-08T19:00:00",
+    "stream_id": "st_cr_001_019",
+    "creator_id": "cr_001",
+    "views": 4520,
+    "watch_time_minutes": 12656.0,
+    "likes": 203,
+    "comments": 49,
+    "shares": 27
+  },
+  {
+    "timestamp": "2026-04-08T20:00:00",
+    "stream_id": "st_cr_001_020",
+    "creator_id": "cr_001",
+    "views": 9922,
+    "watch_time_minutes": 29814,
+    "likes": 564,
+    "comments": 159,
+    "shares": 81
+  },
+  {
+    "timestamp": "2026-04-08T21:00:00",
+    "stream_id": "st_cr_001_021",
+    "creator_id": "cr_001",
+    "views": 10577,
+    "watch_time_minutes": 31785,
+    "likes": 603,
+    "comments": 168,
+    "shares": 84
+  },
+  {
+    "timestamp": "2026-04-08T22:00:00",
+    "stream_id": "st_cr_001_022",
+    "creator_id": "cr_001",
+    "views": 11233,
+    "watch_time_minutes": 33756,
+    "likes": 639,
+    "comments": 180,
+    "shares": 89
+  },
+  {
+    "timestamp": "2026-04-08T23:00:00",
+    "stream_id": "st_cr_001_023",
+    "creator_id": "cr_001",
+    "views": 11889,
+    "watch_time_minutes": 35728,
+    "likes": 678,
+    "comments": 189,
+    "shares": 95
+  },
+  {
+    "timestamp": "2026-04-08T00:00:00",
+    "stream_id": "st_cr_002_000",
+    "creator_id": "cr_002",
+    "views": 5050,
+    "watch_time_minutes": 14897.499999999998,
+    "likes": 237,
+    "comments": 60,
+    "shares": 36
+  },
+  {
+    "timestamp": "2026-04-08T01:00:00",
+    "stream_id": "st_cr_002_001",
+    "creator_id": "cr_002",
+    "views": 5370,
+    "watch_time_minutes": 15841.499999999998,
+    "likes": 252,
+    "comments": 64,
+    "shares": 38
+  },
+  {
+    "timestamp": "2026-04-08T02:00:00",
+    "stream_id": "st_cr_002_002",
+    "creator_id": "cr_002",
+    "views": 5690,
+    "watch_time_minutes": 16785.5,
+    "likes": 267,
+    "comments": 68,
+    "shares": 40
+  },
+  {
+    "timestamp": "2026-04-08T03:00:00",
+    "stream_id": "st_cr_002_003",
+    "creator_id": "cr_002",
+    "views": 6010,
+    "watch_time_minutes": 17729.5,
+    "likes": 282,
+    "comments": 72,
+    "shares": 43
+  },
+  {
+    "timestamp": "2026-04-08T04:00:00",
+    "stream_id": "st_cr_002_004",
+    "creator_id": "cr_002",
+    "views": 6330,
+    "watch_time_minutes": 18673.5,
+    "likes": 297,
+    "comments": 75,
+    "shares": 45
+  },
+  {
+    "timestamp": "2026-04-08T05:00:00",
+    "stream_id": "st_cr_002_005",
+    "creator_id": "cr_002",
+    "views": 6650,
+    "watch_time_minutes": 19617.5,
+    "likes": 312,
+    "comments": 79,
+    "shares": 47
+  },
+  {
+    "timestamp": "2026-04-08T06:00:00",
+    "stream_id": "st_cr_002_006",
+    "creator_id": "cr_002",
+    "views": 5050,
+    "watch_time_minutes": 14897.499999999998,
+    "likes": 237,
+    "comments": 60,
+    "shares": 36
+  },
+  {
+    "timestamp": "2026-04-08T07:00:00",
+    "stream_id": "st_cr_002_007",
+    "creator_id": "cr_002",
+    "views": 5370,
+    "watch_time_minutes": 15841.499999999998,
+    "likes": 252,
+    "comments": 64,
+    "shares": 38
+  },
+  {
+    "timestamp": "2026-04-08T08:00:00",
+    "stream_id": "st_cr_002_008",
+    "creator_id": "cr_002",
+    "views": 5690,
+    "watch_time_minutes": 16785.5,
+    "likes": 267,
+    "comments": 68,
+    "shares": 40
+  },
+  {
+    "timestamp": "2026-04-08T09:00:00",
+    "stream_id": "st_cr_002_009",
+    "creator_id": "cr_002",
+    "views": 6010,
+    "watch_time_minutes": 17729.5,
+    "likes": 282,
+    "comments": 72,
+    "shares": 43
+  },
+  {
+    "timestamp": "2026-04-08T10:00:00",
+    "stream_id": "st_cr_002_010",
+    "creator_id": "cr_002",
+    "views": 6330,
+    "watch_time_minutes": 18673.5,
+    "likes": 297,
+    "comments": 75,
+    "shares": 45
+  },
+  {
+    "timestamp": "2026-04-08T11:00:00",
+    "stream_id": "st_cr_002_011",
+    "creator_id": "cr_002",
+    "views": 6650,
+    "watch_time_minutes": 19617.5,
+    "likes": 312,
+    "comments": 79,
+    "shares": 47
+  },
+  {
+    "timestamp": "2026-04-08T12:00:00",
+    "stream_id": "st_cr_002_012",
+    "creator_id": "cr_002",
+    "views": 5050,
+    "watch_time_minutes": 14897.499999999998,
+    "likes": 237,
+    "comments": 60,
+    "shares": 36
+  },
+  {
+    "timestamp": "2026-04-08T13:00:00",
+    "stream_id": "st_cr_002_013",
+    "creator_id": "cr_002",
+    "views": 5370,
+    "watch_time_minutes": 15841.499999999998,
+    "likes": 252,
+    "comments": 64,
+    "shares": 38
+  },
+  {
+    "timestamp": "2026-04-08T14:00:00",
+    "stream_id": "st_cr_002_014",
+    "creator_id": "cr_002",
+    "views": 5690,
+    "watch_time_minutes": 16785.5,
+    "likes": 267,
+    "comments": 68,
+    "shares": 40
+  },
+  {
+    "timestamp": "2026-04-08T15:00:00",
+    "stream_id": "st_cr_002_015",
+    "creator_id": "cr_002",
+    "views": 6010,
+    "watch_time_minutes": 17729.5,
+    "likes": 282,
+    "comments": 72,
+    "shares": 43
+  },
+  {
+    "timestamp": "2026-04-08T16:00:00",
+    "stream_id": "st_cr_002_016",
+    "creator_id": "cr_002",
+    "views": 6330,
+    "watch_time_minutes": 18673.5,
+    "likes": 297,
+    "comments": 75,
+    "shares": 45
+  },
+  {
+    "timestamp": "2026-04-08T17:00:00",
+    "stream_id": "st_cr_002_017",
+    "creator_id": "cr_002",
+    "views": 6650,
+    "watch_time_minutes": 19617.5,
+    "likes": 312,
+    "comments": 79,
+    "shares": 47
+  },
+  {
+    "timestamp": "2026-04-08T18:00:00",
+    "stream_id": "st_cr_002_018",
+    "creator_id": "cr_002",
+    "views": 5050,
+    "watch_time_minutes": 14897.499999999998,
+    "likes": 237,
+    "comments": 60,
+    "shares": 36
+  },
+  {
+    "timestamp": "2026-04-08T19:00:00",
+    "stream_id": "st_cr_002_019",
+    "creator_id": "cr_002",
+    "views": 5370,
+    "watch_time_minutes": 15841.499999999998,
+    "likes": 252,
+    "comments": 64,
+    "shares": 38
+  },
+  {
+    "timestamp": "2026-04-08T20:00:00",
+    "stream_id": "st_cr_002_020",
+    "creator_id": "cr_002",
+    "views": 5690,
+    "watch_time_minutes": 16785.5,
+    "likes": 267,
+    "comments": 68,
+    "shares": 40
+  },
+  {
+    "timestamp": "2026-04-08T21:00:00",
+    "stream_id": "st_cr_002_021",
+    "creator_id": "cr_002",
+    "views": 6010,
+    "watch_time_minutes": 17729.5,
+    "likes": 282,
+    "comments": 72,
+    "shares": 43
+  },
+  {
+    "timestamp": "2026-04-08T22:00:00",
+    "stream_id": "st_cr_002_022",
+    "creator_id": "cr_002",
+    "views": 6330,
+    "watch_time_minutes": 18673.5,
+    "likes": 297,
+    "comments": 75,
+    "shares": 45
+  },
+  {
+    "timestamp": "2026-04-08T23:00:00",
+    "stream_id": "st_cr_002_023",
+    "creator_id": "cr_002",
+    "views": 6650,
+    "watch_time_minutes": 19617.5,
+    "likes": 312,
+    "comments": 79,
+    "shares": 47
+  },
+  {
+    "timestamp": "2026-04-08T00:00:00",
+    "stream_id": "st_cr_003_000",
+    "creator_id": "cr_003",
+    "views": 5900,
+    "watch_time_minutes": 18289.999999999996,
+    "likes": 289,
+    "comments": 76,
+    "shares": 49
+  },
+  {
+    "timestamp": "2026-04-08T01:00:00",
+    "stream_id": "st_cr_003_001",
+    "creator_id": "cr_003",
+    "views": 6220,
+    "watch_time_minutes": 19281.999999999996,
+    "likes": 304,
+    "comments": 80,
+    "shares": 52
+  },
+  {
+    "timestamp": "2026-04-08T02:00:00",
+    "stream_id": "st_cr_003_002",
+    "creator_id": "cr_003",
+    "views": 6540,
+    "watch_time_minutes": 20273.999999999996,
+    "likes": 320,
+    "comments": 85,
+    "shares": 54
+  },
+  {
+    "timestamp": "2026-04-08T03:00:00",
+    "stream_id": "st_cr_003_003",
+    "creator_id": "cr_003",
+    "views": 6860,
+    "watch_time_minutes": 21265.999999999996,
+    "likes": 336,
+    "comments": 89,
+    "shares": 57
+  },
+  {
+    "timestamp": "2026-04-08T04:00:00",
+    "stream_id": "st_cr_003_004",
+    "creator_id": "cr_003",
+    "views": 7180,
+    "watch_time_minutes": 22257.999999999996,
+    "likes": 351,
+    "comments": 93,
+    "shares": 60
+  },
+  {
+    "timestamp": "2026-04-08T05:00:00",
+    "stream_id": "st_cr_003_005",
+    "creator_id": "cr_003",
+    "views": 7500,
+    "watch_time_minutes": 23249.999999999996,
+    "likes": 367,
+    "comments": 97,
+    "shares": 62
+  },
+  {
+    "timestamp": "2026-04-08T06:00:00",
+    "stream_id": "st_cr_003_006",
+    "creator_id": "cr_003",
+    "views": 5900,
+    "watch_time_minutes": 18289.999999999996,
+    "likes": 289,
+    "comments": 76,
+    "shares": 49
+  },
+  {
+    "timestamp": "2026-04-08T07:00:00",
+    "stream_id": "st_cr_003_007",
+    "creator_id": "cr_003",
+    "views": 6220,
+    "watch_time_minutes": 19281.999999999996,
+    "likes": 304,
+    "comments": 80,
+    "shares": 52
+  },
+  {
+    "timestamp": "2026-04-08T08:00:00",
+    "stream_id": "st_cr_003_008",
+    "creator_id": "cr_003",
+    "views": 6540,
+    "watch_time_minutes": 20273.999999999996,
+    "likes": 320,
+    "comments": 85,
+    "shares": 54
+  },
+  {
+    "timestamp": "2026-04-08T09:00:00",
+    "stream_id": "st_cr_003_009",
+    "creator_id": "cr_003",
+    "views": 6860,
+    "watch_time_minutes": 21265.999999999996,
+    "likes": 336,
+    "comments": 89,
+    "shares": 57
+  },
+  {
+    "timestamp": "2026-04-08T10:00:00",
+    "stream_id": "st_cr_003_010",
+    "creator_id": "cr_003",
+    "views": 7180,
+    "watch_time_minutes": 22257.999999999996,
+    "likes": 351,
+    "comments": 93,
+    "shares": 60
+  },
+  {
+    "timestamp": "2026-04-08T11:00:00",
+    "stream_id": "st_cr_003_011",
+    "creator_id": "cr_003",
+    "views": 7500,
+    "watch_time_minutes": 23249.999999999996,
+    "likes": 367,
+    "comments": 97,
+    "shares": 62
+  },
+  {
+    "timestamp": "2026-04-08T12:00:00",
+    "stream_id": "st_cr_003_012",
+    "creator_id": "cr_003",
+    "views": 5900,
+    "watch_time_minutes": 18289.999999999996,
+    "likes": 289,
+    "comments": 76,
+    "shares": 49
+  },
+  {
+    "timestamp": "2026-04-08T13:00:00",
+    "stream_id": "st_cr_003_013",
+    "creator_id": "cr_003",
+    "views": 6220,
+    "watch_time_minutes": 19281.999999999996,
+    "likes": 304,
+    "comments": 80,
+    "shares": 52
+  },
+  {
+    "timestamp": "2026-04-08T14:00:00",
+    "stream_id": "st_cr_003_014",
+    "creator_id": "cr_003",
+    "views": 6540,
+    "watch_time_minutes": 20273.999999999996,
+    "likes": 320,
+    "comments": 85,
+    "shares": 54
+  },
+  {
+    "timestamp": "2026-04-08T15:00:00",
+    "stream_id": "st_cr_003_015",
+    "creator_id": "cr_003",
+    "views": 6860,
+    "watch_time_minutes": 21265.999999999996,
+    "likes": 336,
+    "comments": 89,
+    "shares": 57
+  },
+  {
+    "timestamp": "2026-04-08T16:00:00",
+    "stream_id": "st_cr_003_016",
+    "creator_id": "cr_003",
+    "views": 7180,
+    "watch_time_minutes": 22257.999999999996,
+    "likes": 351,
+    "comments": 93,
+    "shares": 60
+  },
+  {
+    "timestamp": "2026-04-08T17:00:00",
+    "stream_id": "st_cr_003_017",
+    "creator_id": "cr_003",
+    "views": 11625,
+    "watch_time_minutes": 39524,
+    "likes": 367,
+    "comments": 184,
+    "shares": 62
+  },
+  {
+    "timestamp": "2026-04-08T18:00:00",
+    "stream_id": "st_cr_003_018",
+    "creator_id": "cr_003",
+    "views": 9145,
+    "watch_time_minutes": 31092,
+    "likes": 289,
+    "comments": 144,
+    "shares": 49
+  },
+  {
+    "timestamp": "2026-04-08T19:00:00",
+    "stream_id": "st_cr_003_019",
+    "creator_id": "cr_003",
+    "views": 6220,
+    "watch_time_minutes": 19281.999999999996,
+    "likes": 304,
+    "comments": 80,
+    "shares": 52
+  },
+  {
+    "timestamp": "2026-04-08T20:00:00",
+    "stream_id": "st_cr_003_020",
+    "creator_id": "cr_003",
+    "views": 6540,
+    "watch_time_minutes": 20273.999999999996,
+    "likes": 320,
+    "comments": 85,
+    "shares": 54
+  },
+  {
+    "timestamp": "2026-04-08T21:00:00",
+    "stream_id": "st_cr_003_021",
+    "creator_id": "cr_003",
+    "views": 6860,
+    "watch_time_minutes": 21265.999999999996,
+    "likes": 336,
+    "comments": 89,
+    "shares": 57
+  },
+  {
+    "timestamp": "2026-04-08T22:00:00",
+    "stream_id": "st_cr_003_022",
+    "creator_id": "cr_003",
+    "views": 7180,
+    "watch_time_minutes": 22257.999999999996,
+    "likes": 351,
+    "comments": 93,
+    "shares": 60
+  },
+  {
+    "timestamp": "2026-04-08T23:00:00",
+    "stream_id": "st_cr_003_023",
+    "creator_id": "cr_003",
+    "views": 7500,
+    "watch_time_minutes": 23249.999999999996,
+    "likes": 367,
+    "comments": 97,
+    "shares": 62
+  },
+  {
+    "timestamp": "2026-04-08T00:00:00",
+    "stream_id": "st_cr_004_000",
+    "creator_id": "cr_004",
+    "views": 6750,
+    "watch_time_minutes": 21937.5,
+    "likes": 344,
+    "comments": 94,
+    "shares": 64
+  },
+  {
+    "timestamp": "2026-04-08T01:00:00",
+    "stream_id": "st_cr_004_001",
+    "creator_id": "cr_004",
+    "views": 7070,
+    "watch_time_minutes": 22977.5,
+    "likes": 360,
+    "comments": 98,
+    "shares": 67
+  },
+  {
+    "timestamp": "2026-04-08T02:00:00",
+    "stream_id": "st_cr_004_002",
+    "creator_id": "cr_004",
+    "views": 7390,
+    "watch_time_minutes": 24017.5,
+    "likes": 376,
+    "comments": 103,
+    "shares": 70
+  },
+  {
+    "timestamp": "2026-04-08T03:00:00",
+    "stream_id": "st_cr_004_003",
+    "creator_id": "cr_004",
+    "views": 7710,
+    "watch_time_minutes": 25057.5,
+    "likes": 393,
+    "comments": 107,
+    "shares": 74
+  },
+  {
+    "timestamp": "2026-04-08T04:00:00",
+    "stream_id": "st_cr_004_004",
+    "creator_id": "cr_004",
+    "views": 8030,
+    "watch_time_minutes": 26097.5,
+    "likes": 409,
+    "comments": 112,
+    "shares": 77
+  },
+  {
+    "timestamp": "2026-04-08T05:00:00",
+    "stream_id": "st_cr_004_005",
+    "creator_id": "cr_004",
+    "views": 8350,
+    "watch_time_minutes": 27137.5,
+    "likes": 425,
+    "comments": 116,
+    "shares": 80
+  },
+  {
+    "timestamp": "2026-04-08T06:00:00",
+    "stream_id": "st_cr_004_006",
+    "creator_id": "cr_004",
+    "views": 6750,
+    "watch_time_minutes": 21937.5,
+    "likes": 344,
+    "comments": 94,
+    "shares": 64
+  },
+  {
+    "timestamp": "2026-04-08T07:00:00",
+    "stream_id": "st_cr_004_007",
+    "creator_id": "cr_004",
+    "views": 7070,
+    "watch_time_minutes": 22977.5,
+    "likes": 360,
+    "comments": 98,
+    "shares": 67
+  },
+  {
+    "timestamp": "2026-04-08T08:00:00",
+    "stream_id": "st_cr_004_008",
+    "creator_id": "cr_004",
+    "views": 7390,
+    "watch_time_minutes": 24017.5,
+    "likes": 376,
+    "comments": 103,
+    "shares": 70
+  },
+  {
+    "timestamp": "2026-04-08T09:00:00",
+    "stream_id": "st_cr_004_009",
+    "creator_id": "cr_004",
+    "views": 7710,
+    "watch_time_minutes": 25057.5,
+    "likes": 393,
+    "comments": 107,
+    "shares": 74
+  },
+  {
+    "timestamp": "2026-04-08T10:00:00",
+    "stream_id": "st_cr_004_010",
+    "creator_id": "cr_004",
+    "views": 8030,
+    "watch_time_minutes": 26097.5,
+    "likes": 409,
+    "comments": 112,
+    "shares": 77
+  },
+  {
+    "timestamp": "2026-04-08T11:00:00",
+    "stream_id": "st_cr_004_011",
+    "creator_id": "cr_004",
+    "views": 8350,
+    "watch_time_minutes": 27137.5,
+    "likes": 425,
+    "comments": 116,
+    "shares": 80
+  },
+  {
+    "timestamp": "2026-04-08T12:00:00",
+    "stream_id": "st_cr_004_012",
+    "creator_id": "cr_004",
+    "views": 6750,
+    "watch_time_minutes": 21937.5,
+    "likes": 344,
+    "comments": 94,
+    "shares": 64
+  },
+  {
+    "timestamp": "2026-04-08T13:00:00",
+    "stream_id": "st_cr_004_013",
+    "creator_id": "cr_004",
+    "views": 7070,
+    "watch_time_minutes": 22977.5,
+    "likes": 360,
+    "comments": 98,
+    "shares": 67
+  },
+  {
+    "timestamp": "2026-04-08T14:00:00",
+    "stream_id": "st_cr_004_014",
+    "creator_id": "cr_004",
+    "views": 7390,
+    "watch_time_minutes": 24017.5,
+    "likes": 376,
+    "comments": 103,
+    "shares": 70
+  },
+  {
+    "timestamp": "2026-04-08T15:00:00",
+    "stream_id": "st_cr_004_015",
+    "creator_id": "cr_004",
+    "views": 7710,
+    "watch_time_minutes": 25057.5,
+    "likes": 393,
+    "comments": 107,
+    "shares": 74
+  },
+  {
+    "timestamp": "2026-04-08T16:00:00",
+    "stream_id": "st_cr_004_016",
+    "creator_id": "cr_004",
+    "views": 8030,
+    "watch_time_minutes": 26097.5,
+    "likes": 409,
+    "comments": 112,
+    "shares": 77
+  },
+  {
+    "timestamp": "2026-04-08T17:00:00",
+    "stream_id": "st_cr_004_017",
+    "creator_id": "cr_004",
+    "views": 8350,
+    "watch_time_minutes": 27137.5,
+    "likes": 425,
+    "comments": 116,
+    "shares": 80
+  },
+  {
+    "timestamp": "2026-04-08T18:00:00",
+    "stream_id": "st_cr_004_018",
+    "creator_id": "cr_004",
+    "views": 6750,
+    "watch_time_minutes": 21937.5,
+    "likes": 344,
+    "comments": 94,
+    "shares": 64
+  },
+  {
+    "timestamp": "2026-04-08T19:00:00",
+    "stream_id": "st_cr_004_019",
+    "creator_id": "cr_004",
+    "views": 7070,
+    "watch_time_minutes": 22977.5,
+    "likes": 360,
+    "comments": 98,
+    "shares": 67
+  },
+  {
+    "timestamp": "2026-04-08T20:00:00",
+    "stream_id": "st_cr_004_020",
+    "creator_id": "cr_004",
+    "views": 7390,
+    "watch_time_minutes": 24017.5,
+    "likes": 376,
+    "comments": 103,
+    "shares": 70
+  },
+  {
+    "timestamp": "2026-04-08T21:00:00",
+    "stream_id": "st_cr_004_021",
+    "creator_id": "cr_004",
+    "views": 7710,
+    "watch_time_minutes": 25057.5,
+    "likes": 393,
+    "comments": 107,
+    "shares": 74
+  },
+  {
+    "timestamp": "2026-04-08T22:00:00",
+    "stream_id": "st_cr_004_022",
+    "creator_id": "cr_004",
+    "views": 8030,
+    "watch_time_minutes": 26097.5,
+    "likes": 409,
+    "comments": 112,
+    "shares": 77
+  },
+  {
+    "timestamp": "2026-04-08T23:00:00",
+    "stream_id": "st_cr_004_023",
+    "creator_id": "cr_004",
+    "views": 8350,
+    "watch_time_minutes": 27137.5,
+    "likes": 425,
+    "comments": 116,
+    "shares": 80
+  },
+  {
+    "timestamp": "2026-04-08T00:00:00",
+    "stream_id": "st_cr_005_000",
+    "creator_id": "cr_005",
+    "views": 7600,
+    "watch_time_minutes": 25840.0,
+    "likes": 402,
+    "comments": 114,
+    "shares": 82
+  },
+  {
+    "timestamp": "2026-04-08T01:00:00",
+    "stream_id": "st_cr_005_001",
+    "creator_id": "cr_005",
+    "views": 7920,
+    "watch_time_minutes": 26928.0,
+    "likes": 419,
+    "comments": 118,
+    "shares": 85
+  },
+  {
+    "timestamp": "2026-04-08T02:00:00",
+    "stream_id": "st_cr_005_002",
+    "creator_id": "cr_005",
+    "views": 8240,
+    "watch_time_minutes": 28016.0,
+    "likes": 436,
+    "comments": 123,
+    "shares": 88
+  },
+  {
+    "timestamp": "2026-04-08T03:00:00",
+    "stream_id": "st_cr_005_003",
+    "creator_id": "cr_005",
+    "views": 8560,
+    "watch_time_minutes": 29104.0,
+    "likes": 453,
+    "comments": 128,
+    "shares": 92
+  },
+  {
+    "timestamp": "2026-04-08T04:00:00",
+    "stream_id": "st_cr_005_004",
+    "creator_id": "cr_005",
+    "views": 8880,
+    "watch_time_minutes": 30192.0,
+    "likes": 470,
+    "comments": 133,
+    "shares": 95
+  },
+  {
+    "timestamp": "2026-04-08T05:00:00",
+    "stream_id": "st_cr_005_005",
+    "creator_id": "cr_005",
+    "views": 9200,
+    "watch_time_minutes": 31280.0,
+    "likes": 487,
+    "comments": 138,
+    "shares": 99
+  },
+  {
+    "timestamp": "2026-04-08T06:00:00",
+    "stream_id": "st_cr_005_006",
+    "creator_id": "cr_005",
+    "views": 7600,
+    "watch_time_minutes": 25840.0,
+    "likes": 402,
+    "comments": 114,
+    "shares": 82
+  },
+  {
+    "timestamp": "2026-04-08T07:00:00",
+    "stream_id": "st_cr_005_007",
+    "creator_id": "cr_005",
+    "views": 7920,
+    "watch_time_minutes": 26928.0,
+    "likes": 419,
+    "comments": 118,
+    "shares": 85
+  },
+  {
+    "timestamp": "2026-04-08T08:00:00",
+    "stream_id": "st_cr_005_008",
+    "creator_id": "cr_005",
+    "views": 8240,
+    "watch_time_minutes": 28016.0,
+    "likes": 436,
+    "comments": 123,
+    "shares": 88
+  },
+  {
+    "timestamp": "2026-04-08T09:00:00",
+    "stream_id": "st_cr_005_009",
+    "creator_id": "cr_005",
+    "views": 8560,
+    "watch_time_minutes": 29104.0,
+    "likes": 453,
+    "comments": 128,
+    "shares": 92
+  },
+  {
+    "timestamp": "2026-04-08T10:00:00",
+    "stream_id": "st_cr_005_010",
+    "creator_id": "cr_005",
+    "views": 8880,
+    "watch_time_minutes": 30192.0,
+    "likes": 470,
+    "comments": 133,
+    "shares": 95
+  },
+  {
+    "timestamp": "2026-04-08T11:00:00",
+    "stream_id": "st_cr_005_011",
+    "creator_id": "cr_005",
+    "views": 9200,
+    "watch_time_minutes": 31280.0,
+    "likes": 487,
+    "comments": 138,
+    "shares": 99
+  },
+  {
+    "timestamp": "2026-04-08T12:00:00",
+    "stream_id": "st_cr_005_012",
+    "creator_id": "cr_005",
+    "views": 7600,
+    "watch_time_minutes": 25840.0,
+    "likes": 402,
+    "comments": 114,
+    "shares": 82
+  },
+  {
+    "timestamp": "2026-04-08T13:00:00",
+    "stream_id": "st_cr_005_013",
+    "creator_id": "cr_005",
+    "views": 7920,
+    "watch_time_minutes": 26928.0,
+    "likes": 419,
+    "comments": 118,
+    "shares": 85
+  },
+  {
+    "timestamp": "2026-04-08T14:00:00",
+    "stream_id": "st_cr_005_014",
+    "creator_id": "cr_005",
+    "views": 8240,
+    "watch_time_minutes": 28016.0,
+    "likes": 436,
+    "comments": 123,
+    "shares": 88
+  },
+  {
+    "timestamp": "2026-04-08T15:00:00",
+    "stream_id": "st_cr_005_015",
+    "creator_id": "cr_005",
+    "views": 8560,
+    "watch_time_minutes": 29104.0,
+    "likes": 453,
+    "comments": 128,
+    "shares": 92
+  },
+  {
+    "timestamp": "2026-04-08T16:00:00",
+    "stream_id": "st_cr_005_016",
+    "creator_id": "cr_005",
+    "views": 8880,
+    "watch_time_minutes": 30192.0,
+    "likes": 470,
+    "comments": 133,
+    "shares": 95
+  },
+  {
+    "timestamp": "2026-04-08T17:00:00",
+    "stream_id": "st_cr_005_017",
+    "creator_id": "cr_005",
+    "views": 9200,
+    "watch_time_minutes": 31280.0,
+    "likes": 487,
+    "comments": 138,
+    "shares": 99
+  },
+  {
+    "timestamp": "2026-04-08T18:00:00",
+    "stream_id": "st_cr_005_018",
+    "creator_id": "cr_005",
+    "views": 7600,
+    "watch_time_minutes": 25840.0,
+    "likes": 402,
+    "comments": 114,
+    "shares": 82
+  },
+  {
+    "timestamp": "2026-04-08T19:00:00",
+    "stream_id": "st_cr_005_019",
+    "creator_id": "cr_005",
+    "views": 7920,
+    "watch_time_minutes": 26928.0,
+    "likes": 419,
+    "comments": 118,
+    "shares": 85
+  },
+  {
+    "timestamp": "2026-04-08T20:00:00",
+    "stream_id": "st_cr_005_020",
+    "creator_id": "cr_005",
+    "views": 8240,
+    "watch_time_minutes": 28016.0,
+    "likes": 436,
+    "comments": 123,
+    "shares": 88
+  },
+  {
+    "timestamp": "2026-04-08T21:00:00",
+    "stream_id": "st_cr_005_021",
+    "creator_id": "cr_005",
+    "views": 8560,
+    "watch_time_minutes": 29104.0,
+    "likes": 453,
+    "comments": 128,
+    "shares": 92
+  },
+  {
+    "timestamp": "2026-04-08T22:00:00",
+    "stream_id": "st_cr_005_022",
+    "creator_id": "cr_005",
+    "views": 8880,
+    "watch_time_minutes": 30192.0,
+    "likes": 470,
+    "comments": 133,
+    "shares": 95
+  },
+  {
+    "timestamp": "2026-04-08T23:00:00",
+    "stream_id": "st_cr_005_023",
+    "creator_id": "cr_005",
+    "views": 9200,
+    "watch_time_minutes": 31280.0,
+    "likes": 487,
+    "comments": 138,
+    "shares": 99
+  }
+]

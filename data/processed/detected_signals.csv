@@ -1,0 +1,7 @@
+creator_id,creator_name,signal_type,severity,metric_value,signal_summary
+cr_001,Ava Blaze,engagement_spike,high,0.0809,Ava Blaze posted a 86% lift in views with engagement rate at 8.1%.
+cr_005,Zuri Flux,engagement_spike,medium,0.0787,Zuri Flux posted a 10% lift in views with engagement rate at 7.9%.
+cr_005,Zuri Flux,abnormal_growth,medium,29.49,Zuri Flux follower gains are running 29% above the trailing 12-hour baseline.
+cr_001,Ava Blaze,conversation_surge,medium,87.39,Ava Blaze social mentions are up 87% with positive sentiment at 0.70.
+cr_005,Zuri Flux,conversation_surge,medium,38.5,Zuri Flux social mentions are up 38% with positive sentiment at 0.64.
+cr_005,Zuri Flux,emerging_creator,medium,53.61,"Zuri Flux is an emerging creator with strong momentum despite a smaller base, posting a momentum index of 53.61."
