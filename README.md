@@ -2,36 +2,43 @@
 
 Transforms fragmented analytics into real-time execution decisions.
 
-## Overview
-Creator businesses rarely suffer from a lack of data. They suffer from too many disconnected tools.
-Growth dashboards, stream analytics, and social listening platforms all describe different parts of the picture, but they do not tell teams what actually matters right now.
-This system unifies those inputs, identifies meaningful signals, classifies creator momentum, and produces an executive report that tells a team what to do next.
+## Project Snapshot
+This repository simulates the kind of internal intelligence layer a streaming or creator-media company would use to unify audience growth, stream performance, and social listening into one operating view.
+
+Instead of stopping at dashboards, it identifies what changed, why it matters, and what a content or growth team should do next.
+
+## Why I Built This
+Most analytics projects are technically correct but operationally weak. They show metrics, but they do not help a team decide.
+
+I wanted this project to feel closer to a real internal system:
+- multiple fragmented inputs
+- a clean normalization layer
+- business-facing KPIs
+- signal detection
+- executive reporting that translates data into action
+
+The goal was not to build a UI. The goal was to build the backend logic that makes good decisions possible.
 
 ## What This System Does
 - Ingests multi-source data from simulated creator growth, stream performance, and social listening feeds
 - Normalizes fragmented metrics into one creator-hour analytics model
-- Detects signals such as engagement spikes, abnormal growth, and conversation surges
-- Classifies creators into operating states like `breakout`, `spike`, and `stable`
-- Generates executive decision reports with prioritized, time-sensitive actions
+- Computes decision-facing KPIs such as `creator_performance_score`, `stream_impact_score`, and `trend_momentum_index`
+- Detects operating signals such as engagement spikes, abnormal growth, conversation surges, and emerging creators
+- Classifies creators into practical states like `breakout`, `spike`, and `stable`
+- Generates an executive decision report with prioritized actions
 
 ## Why This Matters
 This is not a dashboard.
 
 This is a decision-support layer that translates data into action.
 
-Instead of asking a team to interpret five charts and debate what changed, the system identifies the signal, explains the business meaning, and recommends what to do in the next 24 hours, the next 3 days, and over the longer term.
+In real companies, analytics fragmentation slows down teams. Different tools describe different slices of reality, and someone still has to interpret what matters. This system reduces that gap by converting raw telemetry into timing, priority, and recommended action.
 
-## System Architecture
-- `Ingestion`
-  Creates realistic source payloads that mimic internal creator metrics, stream telemetry, and social listening feeds.
-- `Normalization`
-  Standardizes those inputs into one clean creator-hour table with reusable derived metrics such as engagement rate, growth rate, and spike score.
-- `KPI Layer`
-  Calculates business-facing scores that summarize creator performance, stream impact, and near-term momentum.
-- `Signal Detection`
-  Detects meaningful shifts in creator behavior using rolling baselines, thresholds, and momentum logic.
-- `Decision / Reporting`
-  Converts signal combinations into an executive report with clear prioritization and recommended actions.
+## Demo Outputs
+When the pipeline runs, it generates:
+- Simulated raw source files in `data/raw/`
+- Processed analytics tables in `data/processed/`
+- A final executive report in `outputs/creator_report.md`
 
 ## Example Output
 
@@ -71,32 +78,44 @@ Instead of asking a team to interpret five charts and debate what changed, the s
 - Priority 2 Spike: Ava Blaze -> Add Ava Blaze to the rapid-response priority list so future spikes trigger distribution, sales, and programming decisions without delay.
 ```
 
-## How to Run
+## System Architecture
+- `Ingestion`
+  Simulates the upstream systems that feed creator operations teams.
+- `Normalization`
+  Creates one clean creator-hour model from fragmented inputs.
+- `Metrics Layer`
+  Produces reusable KPIs for scale, impact, and momentum.
+- `Signal Detection`
+  Detects meaningful changes instead of exposing only raw time-series movement.
+- `Reporting Layer`
+  Translates signal combinations into an executive decision brief.
 
-1. Install dependencies:
+## What Makes This Interesting
+- It is framed like an internal business system, not a school project
+- It prioritizes action and timing over charting
+- It shows data engineering, analytics design, and product thinking in one repo
+- It is modular enough to evolve into real connectors, orchestration, or storage later
 
-```bash
-pip install -r requirements.txt
-```
+## Engineering Decisions
+- Used simple Python modules instead of frameworks to keep the system legible and extensible
+- Kept the pipeline file-based so the project is easy to run locally and easy to inspect
+- Simulated raw sources so the repo always produces realistic output without external dependencies
+- Used Pandas and NumPy for clarity and speed in normalization and KPI logic
+- Separated signals from reporting so decision logic can evolve without rewriting the data pipeline
 
-2. Run the pipeline:
+## What I Learned
+- Good analytics systems are as much about prioritization as computation
+- Reporting quality changes how technical work is perceived by non-technical stakeholders
+- Small structural decisions, like separating KPIs from signals, make the system easier to extend
+- Portfolio projects are much stronger when they communicate product judgment, not just implementation
 
-```bash
-python main.py
-```
+## Current Status
+- Strong today:
+  The pipeline is fully runnable, generates realistic demo data, calculates KPIs, detects signals, and writes a decision report.
+- Still true and improving:
+  The system is intentionally lightweight, but the architecture is ready for stronger anomaly logic, real API ingestion, and scheduled execution.
 
-3. Optional verification:
-
-```bash
-python -m unittest discover -s tests
-```
-
-4. Review outputs:
-- Executive report: `outputs/creator_report.md`
-- Processed analytics tables: `data/processed/`
-- Simulated raw source files: `data/raw/`
-
-## Project Structure
+## Repository Structure
 
 ```text
 creator_intelligence_layer/
@@ -128,15 +147,39 @@ creator_intelligence_layer/
 └── requirements.txt
 ```
 
+## Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+```bash
+python main.py
+```
+
+## Outputs
+- Executive report: `outputs/creator_report.md`
+- Processed tables: `data/processed/`
+- Raw source payloads: `data/raw/`
+
+## Repository Engine
+The repository is designed around one simple idea:
+
+raw inputs -> normalized metrics -> KPI layer -> signal layer -> executive decisions
+
+That structure keeps the project easy to read while still reflecting how a real internal analytics service would separate concerns.
+
 ## Design Philosophy
 Most analytics systems stop at dashboards.
 This system focuses on translating signals into decisions.
 
-It is intentionally small, but it is structured like an internal product:
-- clear pipeline stages
-- reusable KPI logic
-- action-oriented reporting
-- realistic source simulation
-- outputs that look usable by a content, growth, or partnerships team
+The value is not visual complexity. The value is operational clarity.
 
-The point is not visual complexity. The point is operational clarity.
+## Roadmap
+- Replace simulated JSON feeds with connector-style ingestion modules
+- Add configurable run windows and report parameters
+- Introduce stronger anomaly detection and confidence scoring
+- Add historical report snapshots for trend comparison over time
+- Expose the pipeline through a lightweight API or internal service layer
