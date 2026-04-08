@@ -1,6 +1,18 @@
 # Creator Intelligence Layer — Decision Support System for Creator & Stream Analytics
 
-Transforms fragmented analytics into real-time execution decisions.
+## What this is
+This is not a dashboard.
+
+This is a decision-support system that identifies where attention is compounding and tells teams what to do about it in real time.
+
+## Example Output
+Below is a real example of the system output.
+
+![Sample Report](./assets/sample.png)
+
+Full report available in `outputs/sample_report.md`
+
+If `assets/sample.png` is missing, generate it by running `python main.py`, taking a screenshot of `outputs/creator_report.md`, and saving it as `assets/sample.png`.
 
 ## Project Snapshot
 This repository simulates the kind of internal intelligence layer a streaming or creator-media company would use to unify audience growth, stream performance, and social listening into one operating view.
@@ -28,19 +40,17 @@ The goal was not to build a UI. The goal was to build the backend logic that mak
 - Generates an executive decision report with prioritized actions
 
 ## Why This Matters
-This is not a dashboard.
+In real companies, analytics fragmentation slows down teams. Different tools describe different slices of reality, and someone still has to interpret what matters.
 
-This is a decision-support layer that translates data into action.
-
-In real companies, analytics fragmentation slows down teams. Different tools describe different slices of reality, and someone still has to interpret what matters. This system reduces that gap by converting raw telemetry into timing, priority, and recommended action.
+This system reduces that gap by converting raw telemetry into timing, priority, and recommended action.
 
 ## Demo Outputs
 When the pipeline runs, it generates:
-- Simulated raw source files in `data/raw/`
-- Processed analytics tables in `data/processed/`
-- A final executive report in `outputs/creator_report.md`
+- simulated raw source files in `data/raw/`
+- processed analytics tables in `data/processed/`
+- a final executive report in `outputs/creator_report.md`
 
-## Example Output
+## Full Sample Report
 
 ```md
 # Creator Intelligence Executive Decision Report
@@ -106,19 +116,21 @@ When the pipeline runs, it generates:
 ## What I Learned
 - Good analytics systems are as much about prioritization as computation
 - Reporting quality changes how technical work is perceived by non-technical stakeholders
-- Small structural decisions, like separating KPIs from signals, make the system easier to extend
-- Portfolio projects are much stronger when they communicate product judgment, not just implementation
+- Small structural decisions make the system easier to extend
+- Portfolio projects are stronger when they communicate product judgment, not just implementation
 
 ## Current Status
 - Strong today:
   The pipeline is fully runnable, generates realistic demo data, calculates KPIs, detects signals, and writes a decision report.
-- Still true and improving:
-  The system is intentionally lightweight, but the architecture is ready for stronger anomaly logic, real API ingestion, and scheduled execution.
+- Still improving:
+  The architecture is ready for stronger anomaly logic, real API ingestion, and scheduled execution.
 
 ## Repository Structure
 
 ```text
 creator_intelligence_layer/
+├── assets/
+│   └── sample.png
 ├── data/
 │   ├── processed/
 │   │   ├── creator_kpis.csv
@@ -132,7 +144,8 @@ creator_intelligence_layer/
 ├── ingestion/
 │   └── simulate_sources.py
 ├── outputs/
-│   └── creator_report.md
+│   ├── creator_report.md
+│   └── sample_report.md
 ├── processing/
 │   ├── kpis.py
 │   └── normalize.py
@@ -161,6 +174,7 @@ python main.py
 
 ## Outputs
 - Executive report: `outputs/creator_report.md`
+- Sample report snapshot: `outputs/sample_report.md`
 - Processed tables: `data/processed/`
 - Raw source payloads: `data/raw/`
 
@@ -168,8 +182,6 @@ python main.py
 The repository is designed around one simple idea:
 
 raw inputs -> normalized metrics -> KPI layer -> signal layer -> executive decisions
-
-That structure keeps the project easy to read while still reflecting how a real internal analytics service would separate concerns.
 
 ## Design Philosophy
 Most analytics systems stop at dashboards.
@@ -183,3 +195,13 @@ The value is not visual complexity. The value is operational clarity.
 - Introduce stronger anomaly detection and confidence scoring
 - Add historical report snapshots for trend comparison over time
 - Expose the pipeline through a lightweight API or internal service layer
+
+## Why this is different
+Most analytics systems stop at dashboards.
+
+They show data, but they don’t tell teams what to do.
+
+This system focuses on:
+- detecting meaningful signals (not just metrics)
+- classifying opportunity types (breakout vs spike)
+- translating data into execution priorities
