@@ -5,50 +5,54 @@ This is not a dashboard.
 
 This is a decision-support system that identifies where attention is compounding and tells teams what to do about it in real time.
 
+It simulates an internal analytics layer for a creator-media or live-streaming company: ingest fragmented data, normalize it, detect breakout vs spike signals, and generate execution priorities for content, growth, and partnerships teams.
+
 ## Example Output
 Below is a real example of the system output.
 
 ![Sample Report](./assets/sample.png)
 
-Full report available in `outputs/sample_report.md`
-
-If `assets/sample.png` is missing, generate it by running `python main.py`, taking a screenshot of `outputs/creator_report.md`, and saving it as `assets/sample.png`.
+Full report available in `outputs/sample_report.md`.
 
 ## Project Snapshot
-This repository simulates the kind of internal intelligence layer a streaming or creator-media company would use to unify audience growth, stream performance, and social listening into one operating view.
-
-Instead of stopping at dashboards, it identifies what changed, why it matters, and what a content or growth team should do next.
+- `Problem`: creator teams rely on fragmented analytics and still need to manually decide what matters
+- `Solution`: a backend decision layer that turns multi-source metrics into prioritized action
+- `Output`: an executive Markdown report with creator phases, business meaning, and recommended next steps
+- `Audience`: content strategy, creator operations, growth, and partnerships teams
 
 ## Why I Built This
-Most analytics projects are technically correct but operationally weak. They show metrics, but they do not help a team decide.
+Most analytics projects show data. Real internal tools help people make decisions.
 
-I wanted this project to feel closer to a real internal system:
-- multiple fragmented inputs
-- a clean normalization layer
-- business-facing KPIs
+I built this project to demonstrate the backend logic behind a decision-intelligence system:
+- ingestion across multiple simulated sources
+- normalized creator-hour analytics
+- KPI generation
 - signal detection
 - executive reporting that translates data into action
 
-The goal was not to build a UI. The goal was to build the backend logic that makes good decisions possible.
+The goal was not to build a UI. The goal was to build the system that makes a useful UI, report, or internal workflow possible.
 
 ## What This System Does
-- Ingests multi-source data from simulated creator growth, stream performance, and social listening feeds
-- Normalizes fragmented metrics into one creator-hour analytics model
-- Computes decision-facing KPIs such as `creator_performance_score`, `stream_impact_score`, and `trend_momentum_index`
-- Detects operating signals such as engagement spikes, abnormal growth, conversation surges, and emerging creators
-- Classifies creators into practical states like `breakout`, `spike`, and `stable`
+- Ingests simulated creator growth, stream performance, and social listening feeds
+- Normalizes fragmented source data into one creator-hour model
+- Computes decision-facing KPIs like `creator_performance_score`, `stream_impact_score`, and `trend_momentum_index`
+- Detects operating signals like engagement spikes, abnormal growth, conversation surges, and emerging creators
+- Classifies creator situations as `breakout`, `spike`, or `stable`
 - Generates an executive decision report with prioritized actions
 
 ## Why This Matters
-In real companies, analytics fragmentation slows down teams. Different tools describe different slices of reality, and someone still has to interpret what matters.
+In real companies, analytics fragmentation slows teams down.
 
-This system reduces that gap by converting raw telemetry into timing, priority, and recommended action.
+Dashboards show what happened. This system explains what matters and what to do next.
+
+That difference matters because creator windows are time-sensitive. A breakout creator needs investment before the market catches up. A spike creator needs fast distribution before attention fades.
 
 ## Demo Outputs
 When the pipeline runs, it generates:
-- simulated raw source files in `data/raw/`
+- raw demo feeds in `data/raw/`
 - processed analytics tables in `data/processed/`
-- a final executive report in `outputs/creator_report.md`
+- an executive decision report in `outputs/creator_report.md`
+- a stable sample report in `outputs/sample_report.md`
 
 ## Full Sample Report
 
@@ -89,41 +93,47 @@ When the pipeline runs, it generates:
 ```
 
 ## System Architecture
-- `Ingestion`
-  Simulates the upstream systems that feed creator operations teams.
-- `Normalization`
-  Creates one clean creator-hour model from fragmented inputs.
-- `Metrics Layer`
-  Produces reusable KPIs for scale, impact, and momentum.
-- `Signal Detection`
-  Detects meaningful changes instead of exposing only raw time-series movement.
-- `Reporting Layer`
-  Translates signal combinations into an executive decision brief.
+- `Ingestion`: simulates upstream creator growth, stream telemetry, and social listening systems
+- `Normalization`: creates one clean creator-hour model from fragmented inputs
+- `Metrics Layer`: calculates performance, impact, and momentum KPIs
+- `Signal Detection`: identifies meaningful operating signals instead of raw movement
+- `Reporting Layer`: converts signal combinations into an executive decision brief
+
+## Repository Engine
+The repository is built around a simple operating flow:
+
+```text
+raw inputs -> normalized metrics -> KPI layer -> signal layer -> executive decisions
+```
+
+That separation keeps the project readable while reflecting how a real internal analytics system would separate concerns.
 
 ## What Makes This Interesting
-- It is framed like an internal business system, not a school project
-- It prioritizes action and timing over charting
-- It shows data engineering, analytics design, and product thinking in one repo
-- It is modular enough to evolve into real connectors, orchestration, or storage later
+- It is framed like an internal business system, not a tutorial
+- It prioritizes action and timing over charts
+- It shows data engineering, analytics design, and product judgment in one repo
+- It can evolve into real connectors, orchestration, storage, and delivery surfaces
 
 ## Engineering Decisions
-- Used simple Python modules instead of frameworks to keep the system legible and extensible
-- Kept the pipeline file-based so the project is easy to run locally and easy to inspect
-- Simulated raw sources so the repo always produces realistic output without external dependencies
-- Used Pandas and NumPy for clarity and speed in normalization and KPI logic
-- Separated signals from reporting so decision logic can evolve without rewriting the data pipeline
-
-## What I Learned
-- Good analytics systems are as much about prioritization as computation
-- Reporting quality changes how technical work is perceived by non-technical stakeholders
-- Small structural decisions make the system easier to extend
-- Portfolio projects are stronger when they communicate product judgment, not just implementation
+- `Simple modules over frameworks`: easier to inspect, run, and extend
+- `File-based pipeline`: keeps the demo portable while preserving realistic data boundaries
+- `Simulated raw sources`: makes the repo self-contained and always runnable
+- `Separate KPIs and signals`: keeps metric calculation independent from decision logic
+- `Markdown reporting`: makes the system useful without needing a frontend
 
 ## Current Status
-- Strong today:
-  The pipeline is fully runnable, generates realistic demo data, calculates KPIs, detects signals, and writes a decision report.
-- Still improving:
-  The architecture is ready for stronger anomaly logic, real API ingestion, and scheduled execution.
+- `Strong today`: runnable end-to-end pipeline, realistic demo data, normalized metrics, KPI tables, signal detection, and executive report generation
+- `Still true`: this is a prototype, not a deployed production service
+- `Improving next`: real connectors, stronger anomaly scoring, scheduled runs, historical snapshots, and delivery through API or internal tooling
+
+## Roadmap
+- `Data ingestion`: replace simulated JSON feeds with connector-style ingestion from APIs, warehouses, or event streams
+- `Storage`: move processed outputs into a database, object store, or lakehouse table
+- `Scheduling`: run the pipeline on a cadence with Airflow, Dagster, Prefect, or cron
+- `Signal quality`: add confidence scoring, historical baselines, and configurable thresholds
+- `Reporting`: generate historical report snapshots and compare week-over-week creator movement
+- `Delivery`: expose the decision layer through an internal API, Slack brief, or lightweight web surface
+- `Governance`: add data contracts, validation checks, and run metadata for production reliability
 
 ## Repository Structure
 
@@ -172,36 +182,38 @@ pip install -r requirements.txt
 python main.py
 ```
 
+Expected console output:
+
+```text
+[creator-intelligence] ingestion    Generating simulated source feeds
+[creator-intelligence] processing   Loading raw sources
+[creator-intelligence] processing   Normalizing creator, stream, and social data
+[creator-intelligence] kpis         Calculating performance, impact, and momentum scores
+[creator-intelligence] signals      Detecting spikes, growth shifts, and breakout creators
+[creator-intelligence] reporting    Generating executive decision report
+[creator-intelligence] complete     Report written to .../outputs/creator_report.md
+```
+
+## Test
+
+```bash
+python -m unittest discover -s tests
+```
+
 ## Outputs
 - Executive report: `outputs/creator_report.md`
 - Sample report snapshot: `outputs/sample_report.md`
 - Processed tables: `data/processed/`
 - Raw source payloads: `data/raw/`
 
-## Repository Engine
-The repository is designed around one simple idea:
-
-raw inputs -> normalized metrics -> KPI layer -> signal layer -> executive decisions
-
 ## Design Philosophy
 Most analytics systems stop at dashboards.
-This system focuses on translating signals into decisions.
 
-The value is not visual complexity. The value is operational clarity.
-
-## Roadmap
-- Replace simulated JSON feeds with connector-style ingestion modules
-- Add configurable run windows and report parameters
-- Introduce stronger anomaly detection and confidence scoring
-- Add historical report snapshots for trend comparison over time
-- Expose the pipeline through a lightweight API or internal service layer
-
-## Why this is different
-Most analytics systems stop at dashboards.
-
-They show data, but they don’t tell teams what to do.
+They show data, but they do not tell teams what to do.
 
 This system focuses on:
-- detecting meaningful signals (not just metrics)
-- classifying opportunity types (breakout vs spike)
-- translating data into execution priorities
+- detecting meaningful signals, not just metrics
+- classifying opportunity types, especially breakout vs spike
+- translating analytics into execution priorities
+
+The value is not visual complexity. The value is operational clarity.

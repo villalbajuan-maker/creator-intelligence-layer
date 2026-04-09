@@ -1,839 +1,839 @@
 [
   {
-    "timestamp": "2026-04-08T00:00:00",
+    "timestamp": "2026-04-07T19:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 280,
     "sentiment_score": 0.64
+  },
+  {
+    "timestamp": "2026-04-07T20:00:00",
+    "creator_id": "cr_001",
+    "platform": "social_listening",
+    "mentions": 289,
+    "sentiment_score": 0.625
+  },
+  {
+    "timestamp": "2026-04-07T21:00:00",
+    "creator_id": "cr_001",
+    "platform": "social_listening",
+    "mentions": 298,
+    "sentiment_score": 0.61
+  },
+  {
+    "timestamp": "2026-04-07T22:00:00",
+    "creator_id": "cr_001",
+    "platform": "social_listening",
+    "mentions": 307,
+    "sentiment_score": 0.595
+  },
+  {
+    "timestamp": "2026-04-07T23:00:00",
+    "creator_id": "cr_001",
+    "platform": "social_listening",
+    "mentions": 316,
+    "sentiment_score": 0.64
+  },
+  {
+    "timestamp": "2026-04-08T00:00:00",
+    "creator_id": "cr_001",
+    "platform": "social_listening",
+    "mentions": 325,
+    "sentiment_score": 0.625
   },
   {
     "timestamp": "2026-04-08T01:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
-    "mentions": 289,
-    "sentiment_score": 0.625
+    "mentions": 334,
+    "sentiment_score": 0.61
   },
   {
     "timestamp": "2026-04-08T02:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
-    "mentions": 298,
-    "sentiment_score": 0.61
+    "mentions": 343,
+    "sentiment_score": 0.595
   },
   {
     "timestamp": "2026-04-08T03:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
-    "mentions": 307,
-    "sentiment_score": 0.595
+    "mentions": 280,
+    "sentiment_score": 0.64
   },
   {
     "timestamp": "2026-04-08T04:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
-    "mentions": 316,
-    "sentiment_score": 0.64
+    "mentions": 289,
+    "sentiment_score": 0.625
   },
   {
     "timestamp": "2026-04-08T05:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
-    "mentions": 325,
-    "sentiment_score": 0.625
-  },
-  {
-    "timestamp": "2026-04-08T06:00:00",
-    "creator_id": "cr_001",
-    "platform": "social_listening",
-    "mentions": 334,
-    "sentiment_score": 0.61
-  },
-  {
-    "timestamp": "2026-04-08T07:00:00",
-    "creator_id": "cr_001",
-    "platform": "social_listening",
-    "mentions": 343,
-    "sentiment_score": 0.595
-  },
-  {
-    "timestamp": "2026-04-08T08:00:00",
-    "creator_id": "cr_001",
-    "platform": "social_listening",
-    "mentions": 280,
-    "sentiment_score": 0.64
-  },
-  {
-    "timestamp": "2026-04-08T09:00:00",
-    "creator_id": "cr_001",
-    "platform": "social_listening",
-    "mentions": 289,
-    "sentiment_score": 0.625
-  },
-  {
-    "timestamp": "2026-04-08T10:00:00",
-    "creator_id": "cr_001",
-    "platform": "social_listening",
     "mentions": 298,
     "sentiment_score": 0.61
   },
   {
-    "timestamp": "2026-04-08T11:00:00",
+    "timestamp": "2026-04-08T06:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 307,
     "sentiment_score": 0.595
   },
   {
-    "timestamp": "2026-04-08T12:00:00",
+    "timestamp": "2026-04-08T07:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 316,
     "sentiment_score": 0.64
   },
   {
-    "timestamp": "2026-04-08T13:00:00",
+    "timestamp": "2026-04-08T08:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 325,
     "sentiment_score": 0.625
   },
   {
-    "timestamp": "2026-04-08T14:00:00",
+    "timestamp": "2026-04-08T09:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 334,
     "sentiment_score": 0.61
   },
   {
-    "timestamp": "2026-04-08T15:00:00",
+    "timestamp": "2026-04-08T10:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 343,
     "sentiment_score": 0.595
   },
   {
-    "timestamp": "2026-04-08T16:00:00",
+    "timestamp": "2026-04-08T11:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 280,
     "sentiment_score": 0.64
   },
   {
-    "timestamp": "2026-04-08T17:00:00",
+    "timestamp": "2026-04-08T12:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 289,
     "sentiment_score": 0.625
   },
   {
-    "timestamp": "2026-04-08T18:00:00",
+    "timestamp": "2026-04-08T13:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 298,
     "sentiment_score": 0.61
   },
   {
-    "timestamp": "2026-04-08T19:00:00",
+    "timestamp": "2026-04-08T14:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 307,
     "sentiment_score": 0.595
   },
   {
-    "timestamp": "2026-04-08T20:00:00",
+    "timestamp": "2026-04-08T15:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 758,
     "sentiment_score": 0.75
   },
   {
-    "timestamp": "2026-04-08T21:00:00",
+    "timestamp": "2026-04-08T16:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 780,
     "sentiment_score": 0.735
   },
   {
-    "timestamp": "2026-04-08T22:00:00",
+    "timestamp": "2026-04-08T17:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 801,
     "sentiment_score": 0.72
   },
   {
-    "timestamp": "2026-04-08T23:00:00",
+    "timestamp": "2026-04-08T18:00:00",
     "creator_id": "cr_001",
     "platform": "social_listening",
     "mentions": 823,
     "sentiment_score": 0.705
   },
   {
-    "timestamp": "2026-04-08T00:00:00",
+    "timestamp": "2026-04-07T19:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 174,
     "sentiment_score": 0.5
   },
   {
-    "timestamp": "2026-04-08T01:00:00",
+    "timestamp": "2026-04-07T20:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 183,
     "sentiment_score": 0.485
   },
   {
-    "timestamp": "2026-04-08T02:00:00",
+    "timestamp": "2026-04-07T21:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 192,
     "sentiment_score": 0.47
   },
   {
-    "timestamp": "2026-04-08T03:00:00",
+    "timestamp": "2026-04-07T22:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 201,
     "sentiment_score": 0.455
   },
   {
-    "timestamp": "2026-04-08T04:00:00",
+    "timestamp": "2026-04-07T23:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 210,
     "sentiment_score": 0.5
   },
   {
-    "timestamp": "2026-04-08T05:00:00",
+    "timestamp": "2026-04-08T00:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 219,
     "sentiment_score": 0.485
   },
   {
-    "timestamp": "2026-04-08T06:00:00",
+    "timestamp": "2026-04-08T01:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 228,
     "sentiment_score": 0.47
   },
   {
-    "timestamp": "2026-04-08T07:00:00",
+    "timestamp": "2026-04-08T02:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 237,
     "sentiment_score": 0.455
   },
   {
-    "timestamp": "2026-04-08T08:00:00",
+    "timestamp": "2026-04-08T03:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 174,
     "sentiment_score": 0.5
   },
   {
-    "timestamp": "2026-04-08T09:00:00",
+    "timestamp": "2026-04-08T04:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 183,
     "sentiment_score": 0.485
   },
   {
-    "timestamp": "2026-04-08T10:00:00",
+    "timestamp": "2026-04-08T05:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 192,
     "sentiment_score": 0.47
   },
   {
-    "timestamp": "2026-04-08T11:00:00",
+    "timestamp": "2026-04-08T06:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 201,
     "sentiment_score": 0.455
   },
   {
-    "timestamp": "2026-04-08T12:00:00",
+    "timestamp": "2026-04-08T07:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 210,
     "sentiment_score": 0.5
   },
   {
-    "timestamp": "2026-04-08T13:00:00",
+    "timestamp": "2026-04-08T08:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 219,
     "sentiment_score": 0.485
   },
   {
-    "timestamp": "2026-04-08T14:00:00",
+    "timestamp": "2026-04-08T09:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 228,
     "sentiment_score": 0.47
   },
   {
-    "timestamp": "2026-04-08T15:00:00",
+    "timestamp": "2026-04-08T10:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 237,
     "sentiment_score": 0.455
   },
   {
-    "timestamp": "2026-04-08T16:00:00",
+    "timestamp": "2026-04-08T11:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 174,
     "sentiment_score": 0.5
   },
   {
-    "timestamp": "2026-04-08T17:00:00",
+    "timestamp": "2026-04-08T12:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 183,
     "sentiment_score": 0.485
   },
   {
-    "timestamp": "2026-04-08T18:00:00",
+    "timestamp": "2026-04-08T13:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 192,
     "sentiment_score": 0.47
   },
   {
-    "timestamp": "2026-04-08T19:00:00",
+    "timestamp": "2026-04-08T14:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 201,
     "sentiment_score": 0.455
   },
   {
-    "timestamp": "2026-04-08T20:00:00",
+    "timestamp": "2026-04-08T15:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 210,
     "sentiment_score": 0.5
   },
   {
-    "timestamp": "2026-04-08T21:00:00",
+    "timestamp": "2026-04-08T16:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 219,
     "sentiment_score": 0.485
   },
   {
-    "timestamp": "2026-04-08T22:00:00",
+    "timestamp": "2026-04-08T17:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 228,
     "sentiment_score": 0.47
   },
   {
-    "timestamp": "2026-04-08T23:00:00",
+    "timestamp": "2026-04-08T18:00:00",
     "creator_id": "cr_002",
     "platform": "social_listening",
     "mentions": 237,
     "sentiment_score": 0.455
   },
   {
-    "timestamp": "2026-04-08T00:00:00",
+    "timestamp": "2026-04-07T19:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 238,
     "sentiment_score": 0.73
+  },
+  {
+    "timestamp": "2026-04-07T20:00:00",
+    "creator_id": "cr_003",
+    "platform": "social_listening",
+    "mentions": 247,
+    "sentiment_score": 0.715
+  },
+  {
+    "timestamp": "2026-04-07T21:00:00",
+    "creator_id": "cr_003",
+    "platform": "social_listening",
+    "mentions": 256,
+    "sentiment_score": 0.7
+  },
+  {
+    "timestamp": "2026-04-07T22:00:00",
+    "creator_id": "cr_003",
+    "platform": "social_listening",
+    "mentions": 265,
+    "sentiment_score": 0.685
+  },
+  {
+    "timestamp": "2026-04-07T23:00:00",
+    "creator_id": "cr_003",
+    "platform": "social_listening",
+    "mentions": 274,
+    "sentiment_score": 0.73
+  },
+  {
+    "timestamp": "2026-04-08T00:00:00",
+    "creator_id": "cr_003",
+    "platform": "social_listening",
+    "mentions": 283,
+    "sentiment_score": 0.715
   },
   {
     "timestamp": "2026-04-08T01:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
-    "mentions": 247,
-    "sentiment_score": 0.715
+    "mentions": 292,
+    "sentiment_score": 0.7
   },
   {
     "timestamp": "2026-04-08T02:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
-    "mentions": 256,
-    "sentiment_score": 0.7
+    "mentions": 301,
+    "sentiment_score": 0.685
   },
   {
     "timestamp": "2026-04-08T03:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
-    "mentions": 265,
-    "sentiment_score": 0.685
+    "mentions": 238,
+    "sentiment_score": 0.73
   },
   {
     "timestamp": "2026-04-08T04:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
-    "mentions": 274,
-    "sentiment_score": 0.73
+    "mentions": 247,
+    "sentiment_score": 0.715
   },
   {
     "timestamp": "2026-04-08T05:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
-    "mentions": 283,
-    "sentiment_score": 0.715
+    "mentions": 256,
+    "sentiment_score": 0.7
   },
   {
     "timestamp": "2026-04-08T06:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
-    "mentions": 292,
-    "sentiment_score": 0.7
+    "mentions": 265,
+    "sentiment_score": 0.685
   },
   {
     "timestamp": "2026-04-08T07:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
-    "mentions": 301,
-    "sentiment_score": 0.685
+    "mentions": 274,
+    "sentiment_score": 0.73
   },
   {
     "timestamp": "2026-04-08T08:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
-    "mentions": 238,
-    "sentiment_score": 0.73
+    "mentions": 283,
+    "sentiment_score": 0.715
   },
   {
     "timestamp": "2026-04-08T09:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
-    "mentions": 247,
-    "sentiment_score": 0.715
-  },
-  {
-    "timestamp": "2026-04-08T10:00:00",
-    "creator_id": "cr_003",
-    "platform": "social_listening",
-    "mentions": 256,
-    "sentiment_score": 0.7
-  },
-  {
-    "timestamp": "2026-04-08T11:00:00",
-    "creator_id": "cr_003",
-    "platform": "social_listening",
-    "mentions": 265,
-    "sentiment_score": 0.685
-  },
-  {
-    "timestamp": "2026-04-08T12:00:00",
-    "creator_id": "cr_003",
-    "platform": "social_listening",
-    "mentions": 274,
-    "sentiment_score": 0.73
-  },
-  {
-    "timestamp": "2026-04-08T13:00:00",
-    "creator_id": "cr_003",
-    "platform": "social_listening",
-    "mentions": 283,
-    "sentiment_score": 0.715
-  },
-  {
-    "timestamp": "2026-04-08T14:00:00",
-    "creator_id": "cr_003",
-    "platform": "social_listening",
     "mentions": 292,
     "sentiment_score": 0.7
   },
   {
-    "timestamp": "2026-04-08T15:00:00",
+    "timestamp": "2026-04-08T10:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 301,
     "sentiment_score": 0.685
   },
   {
-    "timestamp": "2026-04-08T16:00:00",
+    "timestamp": "2026-04-08T11:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 238,
     "sentiment_score": 0.73
   },
   {
-    "timestamp": "2026-04-08T17:00:00",
+    "timestamp": "2026-04-08T12:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 247,
     "sentiment_score": 0.715
   },
   {
-    "timestamp": "2026-04-08T18:00:00",
+    "timestamp": "2026-04-08T13:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 256,
     "sentiment_score": 0.7
   },
   {
-    "timestamp": "2026-04-08T19:00:00",
+    "timestamp": "2026-04-08T14:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 265,
     "sentiment_score": 0.685
   },
   {
-    "timestamp": "2026-04-08T20:00:00",
+    "timestamp": "2026-04-08T15:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 274,
     "sentiment_score": 0.73
   },
   {
-    "timestamp": "2026-04-08T21:00:00",
+    "timestamp": "2026-04-08T16:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 283,
     "sentiment_score": 0.715
   },
   {
-    "timestamp": "2026-04-08T22:00:00",
+    "timestamp": "2026-04-08T17:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 292,
     "sentiment_score": 0.7
   },
   {
-    "timestamp": "2026-04-08T23:00:00",
+    "timestamp": "2026-04-08T18:00:00",
     "creator_id": "cr_003",
     "platform": "social_listening",
     "mentions": 301,
     "sentiment_score": 0.685
   },
   {
-    "timestamp": "2026-04-08T00:00:00",
+    "timestamp": "2026-04-07T19:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 152,
     "sentiment_score": 0.54
+  },
+  {
+    "timestamp": "2026-04-07T20:00:00",
+    "creator_id": "cr_004",
+    "platform": "social_listening",
+    "mentions": 161,
+    "sentiment_score": 0.525
+  },
+  {
+    "timestamp": "2026-04-07T21:00:00",
+    "creator_id": "cr_004",
+    "platform": "social_listening",
+    "mentions": 170,
+    "sentiment_score": 0.51
+  },
+  {
+    "timestamp": "2026-04-07T22:00:00",
+    "creator_id": "cr_004",
+    "platform": "social_listening",
+    "mentions": 179,
+    "sentiment_score": 0.495
+  },
+  {
+    "timestamp": "2026-04-07T23:00:00",
+    "creator_id": "cr_004",
+    "platform": "social_listening",
+    "mentions": 188,
+    "sentiment_score": 0.54
+  },
+  {
+    "timestamp": "2026-04-08T00:00:00",
+    "creator_id": "cr_004",
+    "platform": "social_listening",
+    "mentions": 197,
+    "sentiment_score": 0.525
   },
   {
     "timestamp": "2026-04-08T01:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
-    "mentions": 161,
-    "sentiment_score": 0.525
+    "mentions": 206,
+    "sentiment_score": 0.51
   },
   {
     "timestamp": "2026-04-08T02:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
-    "mentions": 170,
-    "sentiment_score": 0.51
+    "mentions": 215,
+    "sentiment_score": 0.495
   },
   {
     "timestamp": "2026-04-08T03:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
-    "mentions": 179,
-    "sentiment_score": 0.495
+    "mentions": 152,
+    "sentiment_score": 0.54
   },
   {
     "timestamp": "2026-04-08T04:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
-    "mentions": 188,
-    "sentiment_score": 0.54
+    "mentions": 161,
+    "sentiment_score": 0.525
   },
   {
     "timestamp": "2026-04-08T05:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
-    "mentions": 197,
-    "sentiment_score": 0.525
+    "mentions": 170,
+    "sentiment_score": 0.51
   },
   {
     "timestamp": "2026-04-08T06:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
-    "mentions": 206,
-    "sentiment_score": 0.51
+    "mentions": 179,
+    "sentiment_score": 0.495
   },
   {
     "timestamp": "2026-04-08T07:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
-    "mentions": 215,
-    "sentiment_score": 0.495
+    "mentions": 188,
+    "sentiment_score": 0.54
   },
   {
     "timestamp": "2026-04-08T08:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
-    "mentions": 152,
-    "sentiment_score": 0.54
+    "mentions": 197,
+    "sentiment_score": 0.525
   },
   {
     "timestamp": "2026-04-08T09:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
-    "mentions": 161,
-    "sentiment_score": 0.525
-  },
-  {
-    "timestamp": "2026-04-08T10:00:00",
-    "creator_id": "cr_004",
-    "platform": "social_listening",
-    "mentions": 170,
-    "sentiment_score": 0.51
-  },
-  {
-    "timestamp": "2026-04-08T11:00:00",
-    "creator_id": "cr_004",
-    "platform": "social_listening",
-    "mentions": 179,
-    "sentiment_score": 0.495
-  },
-  {
-    "timestamp": "2026-04-08T12:00:00",
-    "creator_id": "cr_004",
-    "platform": "social_listening",
-    "mentions": 188,
-    "sentiment_score": 0.54
-  },
-  {
-    "timestamp": "2026-04-08T13:00:00",
-    "creator_id": "cr_004",
-    "platform": "social_listening",
-    "mentions": 197,
-    "sentiment_score": 0.525
-  },
-  {
-    "timestamp": "2026-04-08T14:00:00",
-    "creator_id": "cr_004",
-    "platform": "social_listening",
     "mentions": 206,
     "sentiment_score": 0.51
   },
   {
-    "timestamp": "2026-04-08T15:00:00",
+    "timestamp": "2026-04-08T10:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 215,
     "sentiment_score": 0.495
   },
   {
-    "timestamp": "2026-04-08T16:00:00",
+    "timestamp": "2026-04-08T11:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 152,
     "sentiment_score": 0.54
   },
   {
-    "timestamp": "2026-04-08T17:00:00",
+    "timestamp": "2026-04-08T12:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 161,
     "sentiment_score": 0.525
   },
   {
-    "timestamp": "2026-04-08T18:00:00",
+    "timestamp": "2026-04-08T13:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 170,
     "sentiment_score": 0.51
   },
   {
-    "timestamp": "2026-04-08T19:00:00",
+    "timestamp": "2026-04-08T14:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 179,
     "sentiment_score": 0.495
   },
   {
-    "timestamp": "2026-04-08T20:00:00",
+    "timestamp": "2026-04-08T15:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 188,
     "sentiment_score": 0.54
   },
   {
-    "timestamp": "2026-04-08T21:00:00",
+    "timestamp": "2026-04-08T16:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 197,
     "sentiment_score": 0.525
   },
   {
-    "timestamp": "2026-04-08T22:00:00",
+    "timestamp": "2026-04-08T17:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 206,
     "sentiment_score": 0.51
   },
   {
-    "timestamp": "2026-04-08T23:00:00",
+    "timestamp": "2026-04-08T18:00:00",
     "creator_id": "cr_004",
     "platform": "social_listening",
     "mentions": 215,
     "sentiment_score": 0.495
   },
   {
-    "timestamp": "2026-04-08T00:00:00",
+    "timestamp": "2026-04-07T19:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 146,
     "sentiment_score": 0.6
   },
   {
-    "timestamp": "2026-04-08T01:00:00",
+    "timestamp": "2026-04-07T20:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 155,
     "sentiment_score": 0.585
   },
   {
-    "timestamp": "2026-04-08T02:00:00",
+    "timestamp": "2026-04-07T21:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 164,
     "sentiment_score": 0.57
   },
   {
-    "timestamp": "2026-04-08T03:00:00",
+    "timestamp": "2026-04-07T22:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 173,
     "sentiment_score": 0.555
   },
   {
-    "timestamp": "2026-04-08T04:00:00",
+    "timestamp": "2026-04-07T23:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 182,
     "sentiment_score": 0.6
   },
   {
-    "timestamp": "2026-04-08T05:00:00",
+    "timestamp": "2026-04-08T00:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 191,
     "sentiment_score": 0.585
   },
   {
-    "timestamp": "2026-04-08T06:00:00",
+    "timestamp": "2026-04-08T01:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 200,
     "sentiment_score": 0.57
   },
   {
-    "timestamp": "2026-04-08T07:00:00",
+    "timestamp": "2026-04-08T02:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 209,
     "sentiment_score": 0.555
   },
   {
-    "timestamp": "2026-04-08T08:00:00",
+    "timestamp": "2026-04-08T03:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 146,
     "sentiment_score": 0.6
   },
   {
-    "timestamp": "2026-04-08T09:00:00",
+    "timestamp": "2026-04-08T04:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 155,
     "sentiment_score": 0.585
   },
   {
-    "timestamp": "2026-04-08T10:00:00",
+    "timestamp": "2026-04-08T05:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 164,
     "sentiment_score": 0.57
   },
   {
-    "timestamp": "2026-04-08T11:00:00",
+    "timestamp": "2026-04-08T06:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 173,
     "sentiment_score": 0.555
   },
   {
-    "timestamp": "2026-04-08T12:00:00",
+    "timestamp": "2026-04-08T07:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 182,
     "sentiment_score": 0.6
   },
   {
-    "timestamp": "2026-04-08T13:00:00",
+    "timestamp": "2026-04-08T08:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 191,
     "sentiment_score": 0.585
   },
   {
-    "timestamp": "2026-04-08T14:00:00",
+    "timestamp": "2026-04-08T09:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 200,
     "sentiment_score": 0.57
   },
   {
-    "timestamp": "2026-04-08T15:00:00",
+    "timestamp": "2026-04-08T10:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 209,
     "sentiment_score": 0.555
   },
   {
-    "timestamp": "2026-04-08T16:00:00",
+    "timestamp": "2026-04-08T11:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 255,
     "sentiment_score": 0.68
   },
   {
-    "timestamp": "2026-04-08T17:00:00",
+    "timestamp": "2026-04-08T12:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 271,
     "sentiment_score": 0.665
   },
   {
-    "timestamp": "2026-04-08T18:00:00",
+    "timestamp": "2026-04-08T13:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 287,
     "sentiment_score": 0.65
   },
   {
-    "timestamp": "2026-04-08T19:00:00",
+    "timestamp": "2026-04-08T14:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 302,
     "sentiment_score": 0.635
   },
   {
-    "timestamp": "2026-04-08T20:00:00",
+    "timestamp": "2026-04-08T15:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 318,
     "sentiment_score": 0.68
   },
   {
-    "timestamp": "2026-04-08T21:00:00",
+    "timestamp": "2026-04-08T16:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 334,
     "sentiment_score": 0.665
   },
   {
-    "timestamp": "2026-04-08T22:00:00",
+    "timestamp": "2026-04-08T17:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 350,
     "sentiment_score": 0.65
   },
   {
-    "timestamp": "2026-04-08T23:00:00",
+    "timestamp": "2026-04-08T18:00:00",
     "creator_id": "cr_005",
     "platform": "social_listening",
     "mentions": 365,

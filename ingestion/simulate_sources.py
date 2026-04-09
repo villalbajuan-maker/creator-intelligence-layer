@@ -61,10 +61,12 @@ CREATORS = [
     },
 ]
 
+DEMO_END_TIME = datetime(2026, 4, 8, 18, 0, 0)
+
 
 def _build_time_index(hours: int) -> List[datetime]:
-    """Return an hourly time index ending at the current UTC hour."""
-    end = datetime.utcnow().replace(minute=0, second=0, microsecond=0)
+    """Return a stable hourly time index for reproducible demo outputs."""
+    end = DEMO_END_TIME
     start = end - timedelta(hours=hours - 1)
     return [start + timedelta(hours=offset) for offset in range(hours)]
 
